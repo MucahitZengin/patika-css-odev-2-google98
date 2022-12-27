@@ -1,0 +1,79 @@
+body{
+    margin: 8px;
+}
+
+*{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    width: 90%;
+    position: relative;
+    margin: auto;
+    margin-top: 1px;
+}
+
+img {
+    width: 351px;
+    height: 113px;
+}
+
+#logo {
+    text-align: center;
+    height: 113px;
+}
+
+#search {
+    text-align: center;
+    background-color: #eee;
+    padding: 2px;
+}
+
+input {
+    text-align: center;
+    padding: 1px 2px;
+}
+
+button{
+    padding: 1px 6px;
+}
+
+#boxes{
+    width: 100%;
+    display: flex;
+    margin-top: 2px;
+}
+.first{
+    width: 37%;
+    background-color:#7EE5DA ;
+    padding-top: 10px;
+}
+
+.second{
+    width: 20%;
+    background-color:#70CCC2 ;
+    margin:0pt 1pt;
+    font-size: small;
+}
+.center{
+    margin: 5pt 0px;
+}
+
+.third{
+    width: 43%;
+    background-color:#62B3AA ;
+    word-wrap: break-word;
+    font-size: small;
+}
+input{
+    text-align: start;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 1px;
+    font-size: 13px;
+}
