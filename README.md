@@ -1,2 +1,2 @@
-# patika-css-odev-2-google98
+# Google 98
 ![index](/ss.png)
